@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning lwc 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me email@ : praveen.kumar@adrosonic.com
+- Amazing work 
 
 <!---
 praveenadrosonic/praveenadrosonic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
