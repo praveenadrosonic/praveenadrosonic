@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praveenadrosonic
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning lwc 
+- 🌱 I’m currently learning full stack web development 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me email@ : praveen.kumar@adrosonic.com
 - Amazing work 
